@@ -13,7 +13,7 @@
 My motto is **_"The sky is not the limit"_**.
 ## Skills
 * Knowledge of HTML5/CSS3/JS
-* Experience in C#, Angular 8, SQL, ASP.NET MVC 5 and Entity Framework
+* Some experience in C#, Angular 8, SQL, ASP.NET MVC 5 and Entity Framework
 * Experience in Adaptive layout
 * Knowledge of Photoshop
 * Knowledge of MS Microsoft
