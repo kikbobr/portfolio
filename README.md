@@ -19,7 +19,7 @@ My motto is **_"The sky is not the limit"_**.
 * Knowledge of MS Microsoft
 ## Experience
 - Working on projects in HTML/CSS/JS, C#, Angular 8, SQL, ASP.NET MVC 5 at University.
-- Working as a freelancer, e.g. ([Eventide](https://kikbobr.github.io/eventide/))
+- Working as a freelancer, e.g. ([Eventide](https://kikbobr.github.io/portfolio/eventide/index.html), [WebDev](https://kikbobr.github.io/portfolio/WebDev/), [Shifer](https://kikbobr.github.io/portfolio/Shifer/index.html), [Shelter](https://kikbobr.github.io/portfolio/shelter/pages/main/), [Calculator](https://kikbobr.github.io/portfolio/Calculator/))
 - Working as a system administrator in one local organization
 ## Education
 * Bachelor Degree at Westminster International University in Tashkent
